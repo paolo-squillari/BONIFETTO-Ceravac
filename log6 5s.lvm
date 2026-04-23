@@ -1,0 +1,28 @@
+LabVIEW Measurement	
+Writer_Version	2
+Reader_Version	2
+Separator	Tab
+Decimal_Separator	.
+Multi_Headings	No
+X_Columns	One
+Time_Pref	Absolute
+Operator	LabVIEW
+Date	2026/04/23
+Time	11:53:00.2912631500584356718
+***End_of_Header***	
+	
+Channels	1	
+Samples	1	
+Date	2026/04/23	
+Time	11:56:09.2912631500584396061	
+Y_Unit_Label	Pa	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	0.001000	
+***End_of_Header***		
+X_Value	Ceravac (Arith. Mean)	Comment
+0.000000	15091.403472
+5.000000	118167.242385
+10.000000	15175.296547
+15.000000	118126.026184
+20.000000	15130.695166
