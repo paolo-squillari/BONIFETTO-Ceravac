@@ -19,6 +19,7 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="ctl" Type="Folder">
 			<Item Name="vars.ctl" Type="VI" URL="../vars.ctl"/>
+			<Item Name="slider.ctl" Type="VI" URL="../slider.ctl"/>
 		</Item>
 		<Item Name="setTitle.vi" Type="VI" URL="../setTitle.vi"/>
 	</Item>
