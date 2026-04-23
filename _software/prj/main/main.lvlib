@@ -22,5 +22,7 @@
 			<Item Name="slider.ctl" Type="VI" URL="../slider.ctl"/>
 		</Item>
 		<Item Name="setTitle.vi" Type="VI" URL="../setTitle.vi"/>
+		<Item Name="helpSamplingInterval.vi" Type="VI" URL="../helpSamplingInterval.vi"/>
 	</Item>
+	<Item Name="stat.vi" Type="VI" URL="../stat.vi"/>
 </Library>
